@@ -11,6 +11,7 @@ This repository contains slides, references and links to recordings of conferenc
 ## 2024
 
 - [Check yo device @ NSLondon | Apple Battersea](./2024/nslondon)
+- [What could _possibly_ go wrong? @ App Talks Manchester](./2024/app-talks-manchester)
 
 ## About me
 
