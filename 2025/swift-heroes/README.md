@@ -1,13 +1,11 @@
-# I’m Oliver: Let me prove it!
-## iO**SK**onf 2025
+# What could _possibly_ go wrong?
+## Swift Heroes 2025
 
-I gave a talk about digital identity on Thu 15<sup>th</sup> at iO**SK**onf 25 in Skopje, North Macedonia.
+I gave a talk about software standards and safety on Tue 8<sup>th</sup> April at Swift Heroes 25 in Turin, Italy.
 
 ### Overview
 
-Governments across the world are now issuing credentials so we can prove our identity from mobile wallets.
-We need to know our data is safe and can’t be impersonated but how can you trust who I say I am?
-How can I prove my name without sharing my address? Mobile identity is the key.
+The talk covered some historic disasters caused by software, how to design safe IT systems and creating a psychologically safe environment in development teams.
 
 ### Slides
 
@@ -15,20 +13,24 @@ The slides for this talk can be found [in this repository](Slides.pdf).
 
 ### Resources
 
-My talk was based on the following industry specifications:
+The talk was based heavily on the following books:
 
-- [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
-- [OpenID for Verifiable Presentations](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
-- [Digital Credentials](https://w3c-fedid.github.io/digital-credentials/)
-- [Verifiable Credential Data Model](https://www.w3.org/TR/vc-data-model-2.0/)
-- [Bitstring Status List](https://www.w3.org/TR/vc-bitstring-status-list/)
-- [ISO/IEC 18013-5 : Mobile driving licence (mDL) application](https://www.iso.org/standard/69084.html)
+- [Humble Pi by Matt Parker](https://www.penguin.co.uk/books/300640/humble-pi-by-parker-matt/9780141989143)
+- [The Design of Everyday Things by Don Norman](https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things/)
+- [Turn the Ship Around! by L. David Marquet](https://davidmarquet.com/turn-the-ship-around-book/)
 
-I used these reference implementations for my live demos:
+Sources for the London Ambulance Service Computer-Aided Dispatch (LASCAD) case study:
 
-- [EU Digital Identity Wallet](https://github.com/eu-digital-identity-wallet/eudi-app-ios-wallet-ui)
-- [openwallet-foundation-labs/identity-credential](https://github.com/openwallet-foundation-labs/identity-credential)
+- [Report of the Inquiry into the London Ambulance Service](http://www0.cs.ucl.ac.uk/staff/A.Finkelstein/las/lascase0.9.pdf)
 
-I’m also keeping an eye on the [Digital Credentials API](https://digitalcredentials.dev) being built into major browsers.
+Sources for the Therac-25 case study:
 
-For further reading, I would recommend chapters 4-6 from Richard Pope’s book [Platformland](https://londonpublishingpartnership.co.uk/books/platformland-an-anatomy-of-next-generation-public-services).
+- [Medical Devices: The Therac-25 by Nancy Leveson](https://legacy.cs.indiana.edu/classes/p415-sjoh/readings/Therac25/therac-update.pdf)
+- [Accountability in a Computerized Society](https://nissenbaum.tech.cornell.edu/papers/accountability.pdf)
+
+Other sources are:
+
+- [The Challenger Launch Decision by Diane Vaughan](https://press.uchicago.edu/ucp/books/book/chicago/C/bo22781921.html)
+- [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
+
+

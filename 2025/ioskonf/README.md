@@ -1,7 +1,7 @@
 # I’m Oliver: Let me prove it!
 ## iO**SK**onf 2025
 
-I gave a talk about digital identity on Thu 15<sup>th</sup> at iO**SK**onf 25 in Skopje, North Macedonia.
+I gave a talk about digital identity on Thu 15<sup>th</sup> May at iO**SK**onf 25 in Skopje, North Macedonia.
 
 ### Overview
 
