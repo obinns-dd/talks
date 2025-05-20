@@ -13,6 +13,11 @@ This repository contains slides, references and links to recordings of conferenc
 - [Check yo device @ NSLondon | Apple Battersea](./2024/nslondon)
 - [What could _possibly_ go wrong? @ App Talks Manchester](./2024/app-talks-manchester)
 
+## 2023
+
+- [Turn-based games using SharePlay @ iOSDevUK](./2023/iosdevuk)
+- [Scaling Mobile during a Global Pandemic @ plSwift](./2023/plswift)
+
 ## About me
 
 I am an experienced software engineer specialising in native iOS development with Swift, holding an Master of Engineering degree in Computer Science from the University of York. 
