@@ -7,6 +7,10 @@ I gave a talk about software standards and safety on Tue 8<sup>th</sup> April at
 
 The talk covered some historic disasters caused by software, how to design safe IT systems and creating a psychologically safe environment in development teams.
 
+### Recording
+
+You can watch the recording of this talk on [YouTube](https://www.youtube.com/watch?v=2YHEmoD2STk).
+
 ### Slides
 
 The slides for this talk can be found [in this repository](Slides.pdf).
