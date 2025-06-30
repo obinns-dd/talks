@@ -7,7 +7,11 @@ I gave a talk about Apple’s Foundation Models framework on Tue 17<sup>th</sup>
 
 The talk covered Apple’s approach to AI including ensuring safety and making it easy for developers to integrate Foundation Models into their apps.
 
-I explained how to integrate the models into your app, how to test your integrations and ensure they are safe, and what I hope Apple add in the future. 
+I explained how to integrate the models into your app, how to test your integrations and ensure they are safe, and what I hope Apple add in the future.
+
+### Recording
+
+You can watch the recording of this talk on [YouTube](https://www.youtube.com/watch?v=cm5AQwG1GjE).
 
 ### Slides
 
