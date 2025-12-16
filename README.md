@@ -8,6 +8,7 @@ This repository contains slides, references and links to recordings of conferenc
 - [I’m Oliver: Let me prove it! @ iOSKonf](./2025/ioskonf)
 - [What could _possibly_ go wrong? @ Swift Heroes](./2025/swift-heroes)
 - [Building the Foundations @ Leeds Mobile](./2025/leeds-mobile)
+- [Trust but verify @ ServerSide.swift](./2025/server-side)
 
 ## 2024
 
