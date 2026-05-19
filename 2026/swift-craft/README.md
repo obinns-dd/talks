@@ -1,5 +1,5 @@
-# Building the Foundations
-## Leeds Mobile - June 2025
+# A Strong Foundation?
+## SwiftCraft - May 2026
 
 I gave a talk about Apple’s Foundation Models framework on Tue 19<sup>th</sup> May at [SwiftCraft](https://swiftcraft.uk) in Folkestone, UK.
 
